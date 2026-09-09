@@ -16,7 +16,7 @@ ENV NODE_ENV=production
 ENV MUNINN_DATA_DIR=/data
 
 # P2-12：不以 root 运行
-USER node
+
 
 EXPOSE 7300
 
